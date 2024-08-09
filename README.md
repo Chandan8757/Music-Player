@@ -1,7 +1,6 @@
 Music Player App
 Overview
 The Music Player App is a web-based application designed to provide users with a simple and intuitive interface for playing and managing a playlist of songs. The app includes essential features such as play, pause, skip, shuffle, and playlist management.
-
 music-player music-player-media-query
 Features
 1. Player Controls
