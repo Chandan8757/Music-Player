@@ -1,1 +1,35 @@
-# Music-Player
+Music Player App
+Overview
+The Music Player App is a web-based application designed to provide users with a simple and intuitive interface for playing and managing a playlist of songs. The app includes essential features such as play, pause, skip, shuffle, and playlist management.
+
+music-player music-player-media-query
+Features
+1. Player Controls
+Previous: Skip to the previous song.
+Play/Pause: Start or pause the current song.
+Next: Skip to the next song.
+Shuffle: Shuffle the playlist order for a dynamic listening experience.
+2. Playlist Management
+Delete Song: Remove unwanted songs from the playlist.
+Reset Playlist: Reset the playlist to the default set of songs.
+How to Use
+Player Controls:
+
+Click the "Previous" button to skip to the previous song.
+Use the "Play/Pause" button to start or pause the current song.
+Click the "Next" button to skip to the next song.
+The "Shuffle" button rearranges the playlist for a randomized order.
+Playlist Management:
+
+Each song in the playlist displays its title, artist, and duration.
+Click on a song to play it.
+Use the "Delete" button to remove a song from the playlist.
+Playlist Display
+The main screen shows the current song's title and artist.
+The playlist is displayed with options to play or delete each song.
+Playlist Reset
+If the playlist is empty, a "Reset Playlist" button appears.
+Clicking this button restores the default playlist.
+Script Structure
+The script (script.js) is well-organized with functions for each feature.
+Event listeners are set up for player controls and playlist interactions.
